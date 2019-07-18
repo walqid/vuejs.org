@@ -20,7 +20,7 @@ Detailed release notes for each version are available on [GitHub](https://github
 
 When using Vue, we recommend also installing the [Vue Devtools](https://github.com/vuejs/vue-devtools#vue-devtools) in your browser, allowing you to inspect and debug your Vue applications in a more user-friendly interface.
 
-## Direct `<script>` Include
+## Direct `<script>` Inclusion
 
 Simply download and include with a script tag. `Vue` will be registered as a global variable.
 
